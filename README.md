@@ -7,4 +7,4 @@ This repository contains raw Excel files for historical Censuses of India (1872-
 
 Further details on the folders are below: 
 
-1. **Table 1: Area, Houses and Population**. Contains 29 variables for 23 States/Provinces/Agencies of British India, and All-India level data. Variable descriptions and notes on cleaning are given in the README file within this folder. 
+1. **Table 1: Area, Houses and Population**. Contains 29 variables for 23 States/Provinces/Agencies of British India. Variable descriptions and notes on cleaning are given in the README file within this folder. 
